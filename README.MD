@@ -22,9 +22,8 @@ Consiste em criar uma API básica com Node.JS e ser capaz de realizar as seguint
 <li>NodeJS;</li>
 <li>Express;</li>
 <li>uuidv4;</li>
-<li>InSomnia<li>
+<li>InSomnia</li>
 </ul>
-<small></small>
 
 <h2>:man_technologist: Features</h2>
 <ul>
